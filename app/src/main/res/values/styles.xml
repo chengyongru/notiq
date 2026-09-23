@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Notiq" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#ADA4F5</item>
+        <item name="android:windowBackground">#141416</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <title>Notiq — Keep what matters.</title>
+  <desc>A lavender Notiq monogram on charcoal, with the words Keep what matters and a subtle notification motif.</desc>
+  <rect width="1200" height="360" rx="24" fill="#141419"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#2C2B34"/>
+  <rect x="64" y="65" width="64" height="64" rx="16" fill="#24232B"/>
+  <path d="M83 109V85L110 109V85M83 97H110" stroke="#C6BFFF" stroke-width="4" stroke-linecap="round"/>
+  <text x="147" y="109" fill="#F4F3F7" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="-1">Notiq</text>
+  <text x="64" y="207" fill="#F4F3F7" font-family="Segoe UI,Arial,sans-serif" font-size="56" font-weight="600" letter-spacing="-2">Keep what matters.</text>
+  <text x="66" y="254" fill="#A9A7B5" font-family="Segoe UI,Arial,sans-serif" font-size="20">Your apps. Your rules. A quieter Android.</text>
+  <path d="M819 65V295" stroke="#302E3A"/>
+  <rect x="870" y="84" width="260" height="58" rx="12" fill="#201F28" stroke="#34313F"/>
+  <circle cx="899" cy="113" r="8" stroke="#C6BFFF" stroke-width="2"/>
+  <path d="m895 113 3 3 5-6" stroke="#C6BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M923 106H1078M923 120H1027" stroke="#A9A7B5" stroke-width="5" stroke-linecap="round"/>
+  <rect x="870" y="153" width="260" height="58" rx="12" fill="#201F28" stroke="#34313F"/>
+  <circle cx="899" cy="182" r="8" stroke="#C6BFFF" stroke-width="2"/>
+  <path d="m895 182 3 3 5-6" stroke="#C6BFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M923 175H1059M923 189H1092" stroke="#A9A7B5" stroke-width="5" stroke-linecap="round"/>
+  <rect x="870" y="222" width="260" height="58" rx="12" stroke="#302E3A" stroke-dasharray="4 5"/>
+  <path d="M891 251H907M923 244H1070M923 258H1010" stroke="#45424F" stroke-width="4" stroke-linecap="round"/>
+</svg>
